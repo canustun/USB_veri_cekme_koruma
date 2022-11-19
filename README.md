@@ -1,2 +1,2 @@
-# USB_veri_cekme_koruma
+# USB Veri Çekme ve Korunma
 Siber Güvenlikteki ana konulardan biri olan Veri Güvenliğini istismar eden bu kod çalıştırıldığı anda belirtilen disk içeriği boşsa veya disk takılı değilse farklı bir disk için arka planda dinlemede kalır ama disk takılıysa ve içeriği boş değilse (örnek disk: C, D, F, sdb1, sdb2 vb) belirtilen klasöre (Windows yolu olarak belirttim C:/users/name/Download) diskin adı ile birlikte içeriğindeki verileri kopyalamanıza olanak tanır. Kötüye kullanımdan herhangi bir sorumluluk kabul etmiyorum
